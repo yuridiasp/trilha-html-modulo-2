@@ -1,46 +1,41 @@
 # Trilha HTML - Dio.me
 ## Módulo 02 - HTML I - Conceitos Básicos
 
-Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
+Este desafio tem como objetivo criar um site "quase" completo com o conteúdo abordado neste módulo. Sendo:
 - Formulários
 - Estruturação e formatação de texto
 - Mídias
 - Tabelas
-
-Além de outros recursos falados nas aulas!
+- Além de outros recursos falados nas aulas!
 
 ## Instruções
-1. Você deve criar um site de uma clínica médica (você escolhe a especialidade)
-2. Este site deve conter o seguinte menu de navegação:
+1. Tema: Clínica médica
+2. Menu de navegação:
     - Página Principal
     - Sobre a clínica
     - Horário de Atendimento
     - Contato
-3. Deve, obrigatoriamente, utilizar todas os assuntos abordados nas aulas.
-
-Abaixo como cada página deve ser criada e estruturada.
 
 ### Estrutura das páginas
 
-Todas as páginas terão que seguir um padrão pré-definido. Como não aprendemos sobre CSS ainda, utilize o arquivo `template.html` para utilizar como base. Ele segue uma estrutura semelhante a image abaixo.
+Usando `template.html` como base, segue-se uma estrutura semelhante a image abaixo.
 
 ![Estrutura](https://i.stack.imgur.com/9jI6f.gif)
 
-\* _No template tem algumas cores mas é apenas para melhor visualização. Fique a vontade para alterar da melhor forma._
+No **Menu**, está localizado o menu de navegação, no **Header** de cada página contém uma imagem, no **Footer** informações de contato, e o **Content** é o conteúdo de cada página.
 
-No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** de cada página ficará uma imagem, no **Footer** informações de contato, e o **Content** é o conteúdo de cada página.
-### Página Principal
-1. Deve ter uma imagem no **Header**.
+#### Página Principal
+1. Contém uma imagem no **Header**.
 2. Em **Content** uma breve descrição sobre a clínica.
 3. **Menu** e **Footer** padrões em todas as páginas.
 
-### Sobre a clínica
-1. Deve ter uma imagem diferente no **Header**.
+#### Sobre a clínica
+1. Contém uma imagem diferente no **Header**.
 2. Em **Content** um texto falando sobre a clínica.
 3. **Menu** e **Footer** padrões em todas as páginas.
 
-### Horário de Atendimento
-1. Deve ter uma imagem diferente no **Header**.
+#### Horário de Atendimento
+1. Contém uma imagem diferente no **Header**.
 2. Em **Content** um pequeno texto falando sobre os serviços, e uma tabela de preços, onde cada linha é um serviço, com o preço de cada um de acordo com os dias da semana.
 
 |Serviços |Segunda a Sexta | Sábados | Feriados |
@@ -54,9 +49,9 @@ No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** d
 3. **Menu** e **Footer** padrões em todas as páginas.
 
 
-### Contato
-1. Deve ter uma imagem diferente no **Header**.
-2. Em **Content** deve ter:
+#### Contato
+1. Contém uma imagem diferente no **Header**.
+2. Em **Content** há:
     - Os telefones de contato (celular e whatsapp)
     - Endereço completo da clínica
     - Um Iframe com o Google Maps apontando o endereço da clínica
@@ -69,6 +64,23 @@ No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** d
 
 3. **Menu** e **Footer** padrões em todas as páginas.
 
-Desafio está lançado! Com tudo que aprendemos no Módulo II é perfeitamente possível criar este site! 
+## 👨‍💻 Desenvolvedor
 
-Bora pra cima!
+<p>
+    <a href="https://github.com/yuridiasp">
+        <img
+          align=left
+          margin=10
+          width=80
+          src="https://avatars.githubusercontent.com/u/81938754?v=4"
+        />
+    </a>
+      <p>
+        <p>&nbsp&nbspYuri Dias<br>
+        &nbsp&nbsp&nbsp
+    </p>
+</p>
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuridiasp/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@yuridiasp/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yuri.dias.7739/) [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/YuriDias_P) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yuridiasp/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:yuristardias@hotmail.com)
